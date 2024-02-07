@@ -1,0 +1,4 @@
+name: redux_devtools
+version: 0.0.1
+issue_tracker: https://github.com/borgoat/redux_devtools_extension/issues
+material_icon_code_point: '0xf8d8'
