@@ -1,5 +1,6 @@
-name: redux_devtools_extension
+name: daredux
 
+# Currently beta is required for the devtools extension
 environment:
   sdk: '>=3.3.0-279.3.beta <4.0.0'
 
