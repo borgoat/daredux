@@ -7,8 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:redux_devtools_extension_ui/main.dart';
+import 'package:redux_devtools_extension_ui/src/redux_devtools_extension.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

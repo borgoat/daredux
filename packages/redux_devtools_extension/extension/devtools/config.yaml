@@ -1,0 +1,4 @@
+name: redux_devtools_extension
+version: 0.0.1
+issueTracker: https://github.com/borgoat/redux_devtools_extension/issues
+materialIconCodePoint: '0xf854'
