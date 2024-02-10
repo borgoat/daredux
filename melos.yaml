@@ -2,3 +2,6 @@ name: redux_devtools_extension
 
 packages:
   - packages/**
+
+scripts:
+  build: dart run devtools_extensions build_and_copy --source=packages/redux_devtools_extension_ui --dest=packages/redux_devtools_extension/extension/devtools

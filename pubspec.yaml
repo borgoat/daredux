@@ -4,4 +4,5 @@ environment:
   sdk: '>=3.3.0-279.3.beta <4.0.0'
 
 dev_dependencies:
+  devtools_extensions: ^0.0.13
   melos: ^4.1.0
